@@ -21,8 +21,10 @@ Pi Valide:
 
 ~Paul(1:1032)>
 
-https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
-
+- https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
+- https://symbl.cc/
+- https://symbl.cc/en/tools/braille/
+- https://symbl.cc/en/tools/morse/
 
 ◰	 ◱ 	◲ 	◳  
 
@@ -53,4 +55,9 @@ https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
 ⚒ build   
 ⌁ electricity   
 
+✂ Cut  
+⚗ Lab
+★
+❤ 
 
+❰❱
