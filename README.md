@@ -6,10 +6,17 @@ Pi Valide:
 ▲ ▼ ◀ ▶
 ⌘
 
-Unvalide
-🎮
-🕹️
-   
+🎮A+ 🎮B+ 🎮X+ 🎮Y+ 
+🎮ML+ 🎮MC+ 🎮MR+ 
+🎮L1+ 🎮L2+ 🎮LJ+ 🎮RJ+ 
+🎮AL+ 🎮AR+ 🎮AD+ 🎮AU+ 
+🎮JLU+ 🎮JLR+ 🎮JLD+ 🎮JLL+
+🎮JRU+ 🎮JRR+ 🎮JLR+ 🎮JRL+
+🕹️A+ 🕹️B+
+🕹️ML+🕹️MR+
+🕹️L+ 🕹️R+ 🕹️U+ 🕹️D+
+
+
 -----
 
 ~Paul(1:1032)>
