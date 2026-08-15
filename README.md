@@ -49,5 +49,8 @@ https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
 ☖ ☗ 
 ⛉ ⛊ 	
 
-⚙ gear
-⚒ build
+⚙ gear    
+⚒ build   
+⌁ electricity   
+
+
