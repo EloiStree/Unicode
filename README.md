@@ -72,3 +72,9 @@ cmd:iidb:1032 500> 2032 1000> 4055
 ❤ 
 
 ❰❱
+
+
+📋📁005 Copy a prepared Clipboard from index 005
+
+
+📋>1  📋<1
