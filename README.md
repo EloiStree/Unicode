@@ -17,9 +17,16 @@ Pi Valide:
 🕹️L+ 🕹️R+ 🕹️U+ 🕹️D+
 
 
+
+
 -----
 
-~Paul(1:1032)>
+~Paul|1|1032>
+
+cmd:~⚒Paul> 1032 500> 2032 1000> 4055
+cmd:iidb:1032 500> 2032 1000> 4055
+
+⌘macro_name  
 
 - https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
 - https://symbl.cc/
