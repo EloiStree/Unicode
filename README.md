@@ -13,3 +13,17 @@ Unvalide
 -----
 
 ~Paul(1:1032)>
+
+https://forum.creative.gimkit.com/t/unicode-symbols-for-your-game/34747
+
+
+◰	◱	◲	◳
+◆◇■□⚑
+
+  
+🂠   
+🂡	🂢	🂣	🂤	🂥	🂦	🂧	🂨	🂩	🂪	🂫	🂬	🂭	🂮	   
+🂱	🂲	🂳	🂴	🂵	🂶	🂷	🂸	🂹	🂺	🂻	🂼	🂽	🂾  
+🃁	🃂	🃃	🃄	🃅	🃆	🃇	🃈	🃉	🃊	🃋	🃌	🃍	🃎   
+🃑	🃒	🃓	🃔	🃕	🃖	🃗	🃘	🃙	🃚	🃛	🃜	🃝	🃞   
+
