@@ -84,5 +84,35 @@ cmd:iidb:1032 500> 2032 1000> 4055
 🏗️🍪 i1 1032 100> 56 2000> i0 98    
 Would turn to `iidb:1:1032:0:1:56:100:0:98:2100`    
 
-🏗️jump🍪4:1032:0:4:2032:1000  # Bake at first call as byte packed array as `jump` then send   
+🏗️jump🍪4:1032:0:4:2032:1000  # Bake
+
+at first call as byte packed array as `jump` then send   
 🏗️4:1032:0:4:2032:1000   # Then the command to jump with timer on the hardware as byte array of iid.    
+
+
+
+
+✅✔️✔️✖️❌
+
+
+
+
+🖥️b3615:10101011010
+🖥️b3615:255:56
+🖥️i3615:255
+🖥️ii3615:0:456
+🖥️iid3615:0:45:456
+🖥️t3614:
+💻h8080g:
+💻h8080p:
+
+
+🏗️iid i0 1032 100> 56 2000>
+🏗️ i0 1032 100> 56 2000>
+
+b1|test b0|test
+
+✅✔️✔️✖️❌
+
+🔴🟢⚫⚪
+⬇️test ⬆️test 
