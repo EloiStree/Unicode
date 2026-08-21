@@ -73,16 +73,16 @@ cmd:iidb:1032 500> 2032 1000> 4055
 
 ❰❱
 
+ 
+📋📁005 Copy a prepared Clipboard from index 005  
 
-📋📁005 Copy a prepared Clipboard from index 005
+   
+📋>1  📋<1   
 
+  
+🏗️🚧 Build and IID PackedBytes of integer   
+🏗️🍪 i1 1032 100> 56 2000> i0 98    
+Would turn to `iidb:1:1032:0:1:56:100:0:98:2100`    
 
-📋>1  📋<1
-
-
-🏗️🚧 Build and IID PackedBytes of integer
-🏗️🍪 i1 1032 100> 56 2000> i0 98
-Would turn to `iidb:1:1032:0:1:56:100:0:98:2100`
-
-🏗️jump🍪4:1032:0:4:2032:1000  # Bake at first call as byte packed array as `jump` then send
-🏗️4:1032:0:4:2032:1000   # Then the command to jump with timer on the hardware as byte array of iid.
+🏗️jump🍪4:1032:0:4:2032:1000  # Bake at first call as byte packed array as `jump` then send   
+🏗️4:1032:0:4:2032:1000   # Then the command to jump with timer on the hardware as byte array of iid.    
