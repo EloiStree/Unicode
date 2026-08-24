@@ -116,3 +116,6 @@ b1|test b0|test
 
 🔴🟢⚫⚪
 ⬇️test ⬆️test 
+
+
+🔩 🚗🛠️🔧 ⚙️🔑
