@@ -122,13 +122,11 @@ b1|test b0|test
 
 
 
-**To Do later**:
-
-Easy to code:
-📕word -> Ask the application if someone give documentation about this word (a bit like on wikipedia) 
+**Easy to code:**   
+- 📕word -> Ask the application if someone give documentation about this word (a bit like on wikipedia) 
 
 
-Advance:
-📕sc:{Word} -> Ask if an interpreter has some documentation about this
-📕cmd:{line of command} -> Ask if an interpreter can give explanation about something.
-📕{line} Ask for documentation about this line.
+**Advance:**   
+- 📕sc:{Word} -> Ask if an interpreter has some documentation about this   
+- 📕cmd:{line of command} -> Ask if an interpreter can give explanation about something.   
+- 📕{line} Ask for documentation about this line.   
